@@ -15,7 +15,6 @@ cv2
 PIL
 tqdm
 evaluate
-google.colab
 requests
 shutil
 time
